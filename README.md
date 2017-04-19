@@ -1,4 +1,7 @@
-# test coverage for  [node-google-apps-script (v1.1.5)](https://github.com/danthareja/node-google-apps-script)  [![npm package](https://img.shields.io/npm/v/npmtest-node-google-apps-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-google-apps-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-google-apps-script.svg)](https://travis-ci.org/npmtest/node-npmtest-node-google-apps-script)
+# npmtest-node-google-apps-script
+
+#### test coverage for  [node-google-apps-script (v1.1.5)](https://github.com/danthareja/node-google-apps-script)  [![npm package](https://img.shields.io/npm/v/npmtest-node-google-apps-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-google-apps-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-google-apps-script.svg)](https://travis-ci.org/npmtest/node-npmtest-node-google-apps-script)
+
 #### The easiest way to develop Google Apps Script projects
 
 [![NPM](https://nodei.co/npm/node-google-apps-script.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-google-apps-script)
