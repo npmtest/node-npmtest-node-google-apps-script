@@ -1,6 +1,6 @@
 # npmtest-node-google-apps-script
 
-#### test coverage for  [node-google-apps-script (v1.1.5)](https://github.com/danthareja/node-google-apps-script)  [![npm package](https://img.shields.io/npm/v/npmtest-node-google-apps-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-google-apps-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-google-apps-script.svg)](https://travis-ci.org/npmtest/node-npmtest-node-google-apps-script)
+#### basic test coverage for  [node-google-apps-script (v1.1.5)](https://github.com/danthareja/node-google-apps-script)  [![npm package](https://img.shields.io/npm/v/npmtest-node-google-apps-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-google-apps-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-google-apps-script.svg)](https://travis-ci.org/npmtest/node-npmtest-node-google-apps-script)
 
 #### The easiest way to develop Google Apps Script projects
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-google-apps-script/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-google-apps-script/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-google-apps-script/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-google-apps-script/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-google-apps-script/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-google-apps-script/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-google-apps-script/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-google-apps-script/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-google-apps-script/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-google-apps-script/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-google-apps-script/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-google-apps-script/build/coverage.html/index.html)
 
